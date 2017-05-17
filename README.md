@@ -1,3 +1,6 @@
+Fork of original pelican-blueidea with vk social icon added and fixed disqus comments in opened article
+================
+
 pelican-blueidea
 ================
 

@@ -371,6 +371,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	
 		/* Icons */
 		#extras .social a {background-size: 18px;}
+		#extras .social a[href*='vk.com'] {background-image: url('../images/icons/vk.png');}
 		#extras .social a[href*='facebook.com'] {background-image: url('../images/icons/facebook.png');}
 		#extras .social a[href*='github.com'], 
 		#extras .social a[href*='git.io'] {background-image: url('../images/icons/github.png');}
